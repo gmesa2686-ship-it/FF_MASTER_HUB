@@ -1,0 +1,10 @@
+.dart_tool/
+.flutter-plugins
+.packages
+.pub/
+build/
+ios/Pods/
+.idea/
+.vscode/
+*.iml
+*.log
